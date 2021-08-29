@@ -15,5 +15,5 @@ After that select video number(s).
 
 
 # Options
-> -v, -V	Format video(Default)
+> -v, -V	Format video(Default)\
 > -a, -A        Format audio
