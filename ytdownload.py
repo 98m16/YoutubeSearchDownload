@@ -93,7 +93,6 @@ def  Download():
     number = input("Select the video number(e.g 1,2,..) : ").split('.')
     if choice =="-a" or choice=="-A":
         audio_url(number)
-        print(choice)
     else:
         video_url(number)
 	
